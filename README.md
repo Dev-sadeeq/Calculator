@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- https://calculator-three-rosy-41.vercel.app/
+- Live Site URL: https://dev-sadeeq.github.io/Calculator/
 
 ## My process
 
@@ -66,13 +66,13 @@ The whole logic behind js and some other properties of css
 
 ### Useful resources
 
-- [Example resource 1](https://wwww.chatgpt.com) - This helped me to explain the logic behind the calculator like how does it figure out the button clicked
-- [Example resource 2](https://www..developer.org) - This is website helped me finally understand some js string methods. I'd recommend it to anyone still learning this concept.
+- [](https://wwww.chatgpt.com) - This helped me to explain the logic behind the calculator like how does it figure out the button clicked
+- [](https://www..developer.org) - This is website helped me finally understand some js string methods. I'd recommend it to anyone still learning this concept.
 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Dev-sadeeq)
-- Twitter - [@yourusername](https://www.twitter.com/Dev_sadeeqq)
+- Frontend Mentor - [@Dev-sadeeq](https://www.frontendmentor.io/profile/Dev-sadeeq)
+- Twitter - [@Dev_sadeeqq](https://www.twitter.com/Dev_sadeeqq)
 
 
