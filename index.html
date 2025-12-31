@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bellefair&family=Domine:wght@400..700&family=League+Spartan:wght@100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>  
+</head>
+
+<body>
+
+   <div class="calculator">
+
+        <header class="header">
+            <div class="calc">
+                <h3>calc</h3>
+            </div>
+            <div class="theme">
+                <h3>THEME</h3>
+                <div class="toggle-container">
+                
+                    <div class="numbers">
+                    <span>1</span>
+                    <span>2</span>
+                    <span>3</span>
+                </div>
+
+                <div class="toggle-bar">
+                <input type="radio" name="theme" id="theme1" checked>
+                <input type="radio" name="theme" id="theme2">
+                <input type="radio" name="theme" id="theme3">
+                <div class="toggle-circle"></div>
+                </div>
+
+                </div>
+            </div>
+        </header>
+
+    <input type="text" class="display" id="display" readonly>
+
+    <div class="container">
+        <button class="btn">7</button>
+        <button class="btn">8</button>
+        <button class="btn">9</button>
+        <button class="btn btn-secondary">DEL</button>
+        
+        
+        <button class="btn" >4</button>
+        <button class="btn" >5</button>
+        <button class="btn" >6</button>
+        <button class="btn" >+</button>
+        
+
+        
+        <button class="btn">1</button>
+        <button class="btn">2</button>
+        <button class="btn">3</button>
+        <button class="btn">-</button>
+    
+
+        
+        <button class="btn">.</button>
+        <button class="btn">0</button>
+        <button class="btn">/</button>
+        <button class="btn">x</button>
+
+
+        <button class="btn btn-secondary btn-wide" id="reset-btn">RESET</button>
+        <button class="btn btn-accent btn-wide" id="equal-btn">=</button>
+
+    </div>
+
+   </div>
+
+
+    <script src="app.js" defer></script>
+</body>
+</html>
